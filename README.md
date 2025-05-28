@@ -15,7 +15,7 @@ To Implement Diffie Hellman Key Exchange Algorithm
 
 3. Key Exchange Process: 
    - Each party selects a private key and calculates their public key using the formula \( g^{\text{private key}} \mod p \).
-   - Each party then shares their public key with the other.
+   - Each party then shares their public key with the other. 
 
 4. Secret Key Computation: 
    - Each party computes the shared secret key using the received public key and their own private key.
